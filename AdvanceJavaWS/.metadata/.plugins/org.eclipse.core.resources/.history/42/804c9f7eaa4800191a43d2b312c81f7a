@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>Proj-02-Html_to_Servlet_Communication_Using_forms</display-name>
+  <!-- <welcome-file-list>
+   
+       <welcome-file>input1.jsp</welcome-file>
+     
+  
+    <welcome-file>home1.html</welcome-file>
+
+    <welcome-file>home1.jsp</welcome-file>
+    <welcome-file>input1.html</welcome-file>
+    <welcome-file></welcome-file>
+    <welcome-file></welcome-file>
+  </welcome-file-list> -->
+  
+  <servlet>
+		<servlet-name>voter</servlet-name>
+		<servlet-class>com.nt.servlet.VoterServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>voter</servlet-name>
+		<url-pattern>/voterurl</url-pattern>
+	</servlet-mapping>
+  
+   <servlet>
+		<servlet-name>dservlet</servlet-name>
+		<servlet-class>com.nt.servlet.MyDefaultServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>dservlet</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+</web-app>

@@ -1,0 +1,13 @@
+<h1 style="color: red;text-align: center">Html to Servlet Communication using forms</h1>
+<html>
+	<form action="http://localhost:2525/Proj-02-Html_to_Servlet_Communication_Using_forms/formurl">
+			<label>name::</label>
+			<input type="text" placeholder="enter name"/>
+			<br>
+			<label>age::</label>
+			<input type="text" placeholder="enter age"/ >
+			<input type="submit" value="Check Elibility to vote">			
+	
+	</form>
+	
+</html>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Proj-02-Html_to_Servlet_Communication_Using_forms">
+        <property name="context-root" value="Proj-02-Html_to_Servlet_Communication_Using_forms"/>
+        <property name="java-output-path" value="/Proj-02-Html_to_Servlet_Communication_Using_forms/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,38 @@
+<h1 style='color:blue;text-align:center;font-size: 50px'>Marriage Eligiblity Check</h1>
+<form action="marriageurl" method="post" onsubmit="return validate(this)">
+<label style="font-size: 25px;">Name::</label>
+<input type="text" name="name">
+<br>
+<label style="font-size:25px ">Age:::::</label>
+<input type="text" name="age">
+<br>
+<label style="font-size: 25px">Gender::</label>
+<input type="radio"  name='gender' value='M' checked ><label style="font-size: 25px"> Male</label>
+	<input type="radio" name='gender' value='F'><label style="font-size: 25px"> female</label> <br>
+<input type="submit" style="font-size: 20px" value="Check For Eligibility" >
+
+
+<script type="text/javascript">
+	function validate(frm) {
+		let fname=frm.name.value;
+		let fage=frm.age.value;
+		
+		if(fname==""){
+			alert("Please enter the name");
+			return false;
+		}
+		else if(fage==""){
+			alert("Please enter the age");
+			return false;
+		}
+		else if (!isNaN(fage)) {
+			alert("Age should be numeric");
+			return false;
+		}
+		else if(fage<=0||fage>125){
+			alert("Age should be in the range of 1 to 125");
+		}
+	}
+
+</script>
+</form> 

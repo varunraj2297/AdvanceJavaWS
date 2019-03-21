@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.nt.jdbc.MiniProjectUsingAllStatementObjectsUsingLocalInnerClass.java&apos; to &apos;MiniProjectUsingAllStatementObjectsUsingInnerClass.java&apos;&#x0D;&#x0A;- Original project: &apos;JDBCProjects&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.jdbc.MiniProjectUsingAllStatementObjectsUsingLocalInnerClass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.jdbc.MiniProjectUsingAllStatementObjectsUsingInnerClass.java&apos;" description="Rename compilation unit &apos;MiniProjectUsingAllStatementObjectsUsingLocalInnerClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.nt.jdbc{MiniProjectUsingAllStatementObjectsUsingLocalInnerClass.java" name="MiniProjectUsingAllStatementObjectsUsingInnerClass.java" references="false" stamp="1549699170895" version="1.0"/>
+</session>

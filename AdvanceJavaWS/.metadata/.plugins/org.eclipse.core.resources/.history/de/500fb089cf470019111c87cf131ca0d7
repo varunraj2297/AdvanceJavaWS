@@ -1,0 +1,28 @@
+package com.nt.servlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class MarriageServlet extends HttpServlet {
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+		PrintWriter pw=null;
+		String name=null;
+		int age=0;
+		char gender=0;
+		name=req.getParameter("name");
+		age=Integer.parseInt(req.getParameter("age"));
+		gender=req.getParameter("gender").charAt(0);
+	
+		
+		res.setContentType("text/html");
+		
+	
+	}
+	
+}

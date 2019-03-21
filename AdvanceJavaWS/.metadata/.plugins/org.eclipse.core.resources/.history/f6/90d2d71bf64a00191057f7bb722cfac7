@@ -1,0 +1,18 @@
+<h1 style='color:blue;text-align:center;font-size: 50px'>Marriage Eligiblity Check</h1>
+<form action="marriageurl" method="post" onsubmit="return validate(this)">
+<label style="font-size: 25px;">Name::</label>
+<input type="text" name="name"><span id="errName"  style='color:red'></span>
+<br>
+<label style="font-size:25px ">Age:::::</label>
+<input type="text" name="age"><span id="errAge" style='color:red'></span>
+<br>
+<label style="font-size: 25px">Gender::</label>
+<input type="radio"  name='gender' value='M' checked ><label style="font-size: 25px"> Male</label>
+	<input type="radio" name='gender' value='F'><label style="font-size: 25px"> female</label> <br>
+<input type="submit" style="font-size: 20px" value="Check For Eligibility" >
+<input type="hidden" name="vflag" value="no">
+
+<script type="text/javascript" src="Scripts/common.js">
+	
+</script>
+</form> 
