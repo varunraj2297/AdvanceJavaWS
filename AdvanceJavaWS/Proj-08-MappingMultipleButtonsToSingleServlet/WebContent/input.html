@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title text-align="center">Addition</title>
+<style>
+tr{
+	text-align: center;
+}
+</style>
+</head>
+<body>
+	<form action="buttons" method="post">
+	<h1 style='color:red;text-align: center'>Addition</h1>
+		<table align="center">
+			<tr>
+				<td><label>Value1 ::</label></td>
+				<td><input type="text" name="t1"></td>			
+			</tr>
+			<tr>
+				<td><label>Value2 ::</label></td>
+				<td><input type="text" name="t2"></td>			
+			</tr>
+			<tr>
+				<td ><input type="submit" value="add" name="s"></td>
+				<td ><input type="submit" value="sub" name="s"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="mul" name="s"></td>
+				<td><input type="submit" value="div" name="s"></td>
+			</tr>
+			<tr>
+				<td><a href="buttons?s=sysdate">sysdate</a></td>
+				<td><a href="buttons?s=props">props</a></td>
+			</tr>
+		</table>
+	
+	</form>
+
+</body>
+</html>

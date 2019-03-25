@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
 F:\advjava\jdbcWs\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2699143630.index
 \Proj-02-Html_to_Servlet_Communication_Using_forms\src
+F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2699143630.index
+\Proj-02-Html_to_Servlet_Communication_Using_forms\src

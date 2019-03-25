@@ -31,10 +31,10 @@
   
   
   <welcome-file-list>
-   	        <welcome-file>input.jsp</welcome-file>
+   	      
      <welcome-file>input.html</welcome-file>
      
-  
+    <welcome-file>input.jsp</welcome-file>
     <welcome-file>home.html</welcome-file>
 
     <welcome-file>home.jsp</welcome-file>

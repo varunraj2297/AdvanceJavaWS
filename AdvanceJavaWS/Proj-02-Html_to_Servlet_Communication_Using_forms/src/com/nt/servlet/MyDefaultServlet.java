@@ -16,7 +16,8 @@ public class MyDefaultServlet extends HttpServlet {
 		
 		res.setContentType("text/html");
 		pw=res.getWriter();
-		pw.println("<h1 style='color:red;text-align:center'>Wrong URL</h1>");
+		pw.println("<h1 style='color:red;text-align:center'>Page not found,<br>Wrong url. Please type correct url</h1>");
+		pw.println("<a  href='input.html' style='font-size:40px;text-align:center'>http://localhost:2525/Proj-02-Html_to_Servlet_Communication_Using_forms/input.html</a>");
 		pw.close();
 		
 	}

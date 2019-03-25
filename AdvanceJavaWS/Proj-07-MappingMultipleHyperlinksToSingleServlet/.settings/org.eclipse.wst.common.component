@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Proj-07-MappingMultipleHyperlinksToSingleServlet">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Proj-07-MappingMultipleHyperlinksToSingleServlet"/>
+        <property name="java-output-path" value="/Proj-07-MappingMultipleHyperlinksToSingleServlet/build/classes"/>
+    </wb-module>
+</project-modules>

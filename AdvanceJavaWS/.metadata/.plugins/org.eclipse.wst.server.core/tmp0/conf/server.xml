@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="F:\advjava\jdbcWs\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\advjava\jdbcWs\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Proj-05-Html_to_Servlet_communication_Using_forms_MarriageApp_With_FormValidations_client_side" path="/Proj-05-Html_to_Servlet_communication_Using_forms_MarriageApp_With_FormValidations_client_side" reloadable="true" source="org.eclipse.jst.jee.server:Proj-05-Html_to_Servlet_communication_Using_forms_MarriageApp_With_FormValidations_client_side"/></Host>
+      <Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Proj-08-MappingMultipleButtonsToSingleServlet" path="/Proj-08-MappingMultipleButtonsToSingleServlet" reloadable="true" source="org.eclipse.jst.jee.server:Proj-08-MappingMultipleButtonsToSingleServlet"/></Host>
     </Engine>
   </Service>
 </Server>
