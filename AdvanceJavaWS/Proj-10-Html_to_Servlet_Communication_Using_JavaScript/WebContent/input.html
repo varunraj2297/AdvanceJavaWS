@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Countries and Their States</title>
+</head>
+<body>
+<form name="frm" action="countryurl" onchange="sendReq(this)">
+	<select name="country">
+		<option value="-1">--select a country--</option>
+		<option value="0">India</option>
+		<option value="1">Pakistan</option>
+		<option value="2">Australia</option>
+		<option value="3">USA</option> 
+	</select>
+</form>
+</body>
+</html>
+
+<script lang="javascript">
+	function sendReq(frm){
+		frm.submit();
+	}
+	
+
+</script>

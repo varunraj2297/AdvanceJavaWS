@@ -1,0 +1,5 @@
+create table emp_sal_details(eid number(10) primary key,ename varchar2(10),addrs varchar2(10),
+						desg varchar2(10),gross_sal number(10,3),net_sal number(10,3));
+						
+
+						create sequence eid_sequence start with 1 increment by 1;

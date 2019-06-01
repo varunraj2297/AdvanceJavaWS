@@ -1,0 +1,9 @@
+<web-app>
+  <welcome-file-list>
+    <welcome-file>personal.html</welcome-file>
+  </welcome-file-list>
+  
+  <listener>
+      <listener-class>com.nt.listeners.RequestListener</listener-class>
+  </listener>
+</web-app>

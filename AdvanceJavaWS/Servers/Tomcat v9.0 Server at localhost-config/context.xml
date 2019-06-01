@@ -26,4 +26,16 @@
     <!--
     <Manager pathname="" />
     -->
+    
+    <Resource name="DsJndi" auth="Container"
+              type="javax.sql.DataSource" driverClassName="oracle.jdbc.driver.OracleDriver"
+              url="jdbc:oracle:thin:@localhost:1521:xe"
+              username="hr" password="hr" maxTotal="20" maxIdle="10"
+              maxWaitMillis="-1"/>
+              
+      <Resource name="DsJndi-MySql" auth="Container"
+              type="javax.sql.DataSource" driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql:///varun"
+              username="root" password="Raj*2297" maxTotal="20" maxIdle="10"
+              maxWaitMillis="-1"/>
 </Context>

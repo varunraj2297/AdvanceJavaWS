@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="12">
-    <list key="modules" value0="Proj-08-MappingMultipleButtonsToSingleServlet::org.eclipse.jst.jee.server:Proj-08-MappingMultipleButtonsToSingleServlet::jst.web::4.0"/>
+  <server auto-publish-setting="1" hostname="localhost" id="Oracle WebLogic Server 12c R2 (12.2.1.3) [NTAJ]" name="Oracle WebLogic Server 12c R2 (12.2.1.3) [NTAJ]" runtime-id="Oracle WebLogic Server 12c R2 (12.2.1.3)" server-type="weblogic.server" server-type-id="weblogic.server" start-timeout="480" stop-timeout="240" timestamp="4" weblogic_domain_path="E:\Oracle\Middleware\Oracle_Home\user_projects\domains\NTAJ" weblogic_host_name="localhost" weblogic_is_remote="false" weblogic_port="7001" weblogic_use_bootprop="true" weblogic_use_config_xml="true">
+    <list key="modules" value0="Proj-37-ServletListeners1::org.eclipse.jst.jee.server:Proj-37-ServletListeners1::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="1" glassfish.adminname="glassfish" glassfish.adminpassword="Raj*2297" glassfish.adminserverportnumber="4343" glassfish.domainpath="E:\glassfish5\glassfish\domains\NTAJ" glassfish.serverportnumber="8090" hostname="localhost" id="GlassFish 5 [NTAJ]" name="GlassFish 5 [NTAJ]" runtime-id="GlassFish 5" server-type="glassfish.server" server-type-id="glassfish.server" start-timeout="240" stop-timeout="240" timestamp="40">
+    <list key="modules" value0="Proj-25-ServletToDbCommunication-EmpSearch-UsingContextParamValues-RD-includingResponse::org.eclipse.jst.jee.server:Proj-25-ServletToDbCommunication-EmpSearch-UsingContextParamValues-RD-includingResponse::jst.web::4.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" saveSeparateContextFiles="false" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="45">
+    <list key="modules" value0="Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp::org.eclipse.jst.jee.server:Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp::jst.web::4.0"/>
   </server>
 </servers>

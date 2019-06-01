@@ -85,3 +85,387 @@ Mar 24, 2019 18:06:53.64 [11968:1416:0324/180653.643:ERROR:external_registry_loa
 
 Mar 25, 2019 10:19:33.14 NEW SESSION
 Mar 25, 2019 10:19:33.14 [8380:14248:0325/101932.965:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Mar 25, 2019 13:41:43.26 NEW SESSION
+Mar 25, 2019 13:41:44.10 [8636:2204:0325/134143.264:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 25, 2019 13:41:55.88 [8636:11880:0325/134155.886:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Request canceled.
+Mar 25, 2019 13:41:56.03 [8636:10356:0325/134156.032:ERROR:browser_process_sub_thread.cc(209)] Waited 90 ms for network service
+Mar 25, 2019 14:02:16.01 [12636:12476:0325/140216.019:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 25, 2019 14:06:14.99 [12636:6840:0325/140614.993:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:06:44.44 [12636:6840:0325/140644.448:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:07:33.84 [12636:6840:0325/140733.844:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:09:24.46 [12636:6840:0325/140924.466:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:12:39.28 [12636:6840:0325/141239.288:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:20:01.09 [12636:6840:0325/142001.089:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:30:01.10 [12636:6840:0325/143001.101:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:40:01.11 [12636:6840:0325/144001.113:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 14:50:01.12 [12636:6840:0325/145001.128:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:00:01.14 [12636:6840:0325/150001.140:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:10:01.15 [12636:6840:0325/151001.149:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:20:01.15 [12636:6840:0325/152001.159:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:30:01.17 [12636:6840:0325/153001.178:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:40:01.18 [12636:6840:0325/154001.184:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 15:50:01.19 [12636:6840:0325/155001.198:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 25, 2019 16:26:13.56 [12636:1884:0325/162613.562:ERROR:browser_process_sub_thread.cc(209)] Waited 40 ms for network service
+
+Mar 26, 2019 13:45:27.68 NEW SESSION
+Mar 26, 2019 13:45:27.68 [1780:2044:0326/134527.676:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 26, 2019 13:46:22.13 [1780:9872:0326/134622.139:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Mar 26, 2019 13:51:17.55 [1780:9872:0326/135117.552:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 26, 2019 13:51:40.19 [1780:9872:0326/135140.194:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 26, 2019 13:52:29.25 [1780:9872:0326/135229.250:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 26, 2019 13:54:09.72 [1780:8892:0326/135409.715:ERROR:browser_process_sub_thread.cc(209)] Waited 163 ms for network service
+
+Mar 26, 2019 22:33:10.37 NEW SESSION
+Mar 26, 2019 22:33:10.37 [11012:13368:0326/223310.363:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 26, 2019 22:38:00.03 [11012:11712:0326/223800.015:ERROR:browser_process_sub_thread.cc(209)] Waited 232 ms for network service
+
+Mar 27, 2019 10:36:19.98 NEW SESSION
+Mar 27, 2019 10:36:19.98 [3600:7740:0327/103619.975:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Mar 28, 2019 14:21:57.29 NEW SESSION
+Mar 28, 2019 14:21:57.29 [7816:4040:0328/142157.299:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 28, 2019 14:22:36.48 [7816:9068:0328/142236.484:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2019 14:23:03.17 [7816:9068:0328/142303.178:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 28, 2019 14:23:24.14 [7816:9068:0328/142324.144:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 28, 2019 14:24:06.60 [7816:9068:0328/142406.608:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 28, 2019 14:25:39.07 [7816:9068:0328/142539.074:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 28, 2019 14:28:33.74 [7816:9068:0328/142833.745:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 29, 2019 09:30:13.80 NEW SESSION
+Mar 29, 2019 09:30:13.80 [9884:15152:0329/093013.792:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 29, 2019 09:42:41.51 [9884:13368:0329/094241.512:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 09:43:04.72 [9884:13368:0329/094304.720:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 09:43:46.20 [9884:13368:0329/094346.199:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 09:45:13.12 [9884:13368:0329/094513.125:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 09:48:56.26 [9884:13368:0329/094856.266:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 09:55:36.78 [9884:13368:0329/095536.780:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 10:05:36.79 [9884:13368:0329/100536.796:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 10:15:36.81 [9884:13368:0329/101536.813:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 10:25:36.82 [9884:13368:0329/102536.826:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 10:35:36.84 [9884:13368:0329/103536.845:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 29, 2019 13:37:18.53 [9884:13368:0329/133718.531:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 30, 2019 14:13:45.19 NEW SESSION
+Mar 30, 2019 14:13:45.19 [13488:11024:0330/141345.191:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Mar 30, 2019 14:22:32.69 [13488:7604:0330/142232.690:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Mar 30, 2019 14:26:36.11 [13488:7604:0330/142636.114:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 30, 2019 14:26:57.68 [13488:7604:0330/142657.686:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 30, 2019 14:27:42.00 [13488:7604:0330/142742.008:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 30, 2019 14:29:39.95 [13488:7604:0330/142939.950:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 30, 2019 14:32:22.60 [13488:7604:0330/143222.607:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 30, 2019 14:36:37.33 [13488:10892:0330/143637.327:ERROR:browser_process_sub_thread.cc(209)] Waited 359 ms for network service
+
+Apr 13, 2019 23:58:47.82 NEW SESSION
+Apr 13, 2019 23:58:47.82 [12752:6396:0413/235847.635:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 14, 2019 24:02:16.69 [12752:13276:0414/000216.696:ERROR:browser_process_sub_thread.cc(209)] Waited 797 ms for network service
+
+Apr 14, 2019 21:42:42.02 NEW SESSION
+Apr 14, 2019 21:42:42.77 [11896:2196:0414/214241.939:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 14, 2019 21:47:56.33 [11896:5148:0414/214756.333:ERROR:textfield.cc(1768)] NOT IMPLEMENTED
+Apr 14, 2019 22:15:04.12 [11896:12172:0414/221504.123:ERROR:browser_process_sub_thread.cc(209)] Waited 75 ms for network service
+Apr 14, 2019 22:45:38.20 [9836:8532:0414/224538.193:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 14, 2019 22:49:48.18 [9836:4092:0414/224948.182:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Apr 15, 2019 19:32:35.80 NEW SESSION
+Apr 15, 2019 19:32:35.81 [1876:2544:0415/193235.100:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 15, 2019 19:33:10.54 [1876:8608:0415/193310.541:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Request canceled.
+Apr 15, 2019 19:33:10.54 [1876:8608:0415/193310.541:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Request canceled.
+Apr 15, 2019 19:33:10.82 [1876:13048:0415/193310.825:ERROR:browser_process_sub_thread.cc(209)] Waited 209 ms for network service
+Apr 15, 2019 19:43:33.97 [11648:2128:0415/194333.973:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 15, 2019 19:54:34.98 [11648:9344:0415/195434.983:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 15, 2019 19:55:01.47 [11648:9344:0415/195501.475:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 15, 2019 19:55:43.98 [11648:9344:0415/195543.981:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 15, 2019 19:57:09.66 [11648:9344:0415/195709.667:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 15, 2019 20:00:34.19 [11648:9344:0415/200034.198:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 15, 2019 20:05:48.94 [11648:9124:0415/200548.930:ERROR:browser_process_sub_thread.cc(209)] Waited 119 ms for network service
+
+Apr 16, 2019 15:08:03.13 NEW SESSION
+Apr 16, 2019 15:08:03.13 [7800:9944:0416/150802.592:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 16, 2019 15:15:08.35 [7800:1520:0416/151508.355:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:15:37.64 [7800:1520:0416/151537.641:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:16:28.07 [7800:1520:0416/151628.076:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:18:23.65 [7800:1520:0416/151823.649:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:21:10.35 [7800:1520:0416/152110.354:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:28:05.82 [7800:1520:0416/152805.822:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:38:05.83 [7800:1520:0416/153805.836:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 16, 2019 15:48:05.85 [7800:1520:0416/154805.850:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Apr 17, 2019 15:02:22.53 NEW SESSION
+Apr 17, 2019 15:02:22.53 [13932:4416:0417/150222.392:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 17, 2019 15:15:16.02 [13932:3224:0417/151516.021:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 17, 2019 15:15:38.11 [13932:3224:0417/151538.116:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 17, 2019 15:16:28.09 [13932:3224:0417/151628.092:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 17, 2019 15:18:06.65 [13932:3224:0417/151806.656:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 17, 2019 15:21:39.45 [13932:3224:0417/152139.451:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 17, 2019 15:26:42.37 [13932:4600:0417/152642.367:ERROR:browser_process_sub_thread.cc(209)] Waited 410 ms for network service
+
+Apr 21, 2019 16:35:39.82 NEW SESSION
+Apr 21, 2019 16:35:39.82 [9664:13880:0421/163539.824:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 21, 2019 16:36:23.28 [9664:5208:0421/163623.287:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2019 16:36:23.94 [9664:5208:0421/163623.940:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2019 16:40:43.59 [9664:5208:0421/164043.597:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 16:41:03.85 [9664:5208:0421/164103.855:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 16:41:59.51 [9664:5208:0421/164159.511:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 16:43:22.80 [9664:5208:0421/164322.805:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 16:46:41.55 [9664:5208:0421/164641.555:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 16:52:34.58 [9664:5208:0421/165234.586:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:02:34.60 [9664:5208:0421/170234.600:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:12:34.61 [9664:5208:0421/171234.610:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:22:34.62 [9664:5208:0421/172234.620:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:32:34.64 [9664:5208:0421/173234.639:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:42:34.65 [9664:5208:0421/174234.651:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:52:34.66 [9664:5208:0421/175234.669:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 21, 2019 17:53:56.20 [9664:12164:0421/175356.204:ERROR:browser_process_sub_thread.cc(209)] Waited 192 ms for network service
+
+Apr 23, 2019 14:56:20.78 NEW SESSION
+Apr 23, 2019 14:56:20.78 [5476:2076:0423/145620.141:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 14:56:58.17 [5476:3756:0423/145658.178:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 23, 2019 14:56:58.42 [5476:3756:0423/145658.421:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+
+Apr 23, 2019 15:29:00.77 NEW SESSION
+Apr 23, 2019 15:29:00.77 [5512:8212:0423/152900.762:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 15:43:22.75 [5512:7092:0423/154322.752:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 15:43:51.84 [5512:7092:0423/154351.841:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 15:44:33.57 [5512:7092:0423/154433.572:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 15:46:32.60 [5512:7092:0423/154632.600:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 15:49:41.60 [5512:7092:0423/154941.608:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 15:57:04.70 [5512:7092:0423/155704.706:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Apr 23, 2019 18:24:42.91 NEW SESSION
+Apr 23, 2019 18:24:42.91 [11208:11448:0423/182442.910:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 18:34:15.85 [11208:5256:0423/183415.856:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:34:41.75 [11208:5256:0423/183441.753:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:35:36.16 [11208:5256:0423/183536.160:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:37:34.23 [11208:5256:0423/183734.237:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:40:22.19 [11208:5256:0423/184022.195:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:46:11.44 [11208:5256:0423/184611.446:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:56:11.46 [11208:5256:0423/185611.460:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 18:58:13.28 [11208:11884:0423/185813.280:ERROR:browser_process_sub_thread.cc(209)] Waited 126 ms for network service
+Apr 23, 2019 18:59:15.52 [5584:2508:0423/185915.524:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 19:00:19.31 [5584:9348:0423/190019.313:ERROR:browser_process_sub_thread.cc(209)] Waited 113 ms for network service
+Apr 23, 2019 19:00:38.81 [2232:12348:0423/190038.811:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 19:00:42.86 [2232:11016:0423/190042.867:ERROR:browser_process_sub_thread.cc(209)] Waited 160 ms for network service
+Apr 23, 2019 19:14:02.35 [12772:6232:0423/191402.352:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 19:14:13.66 [12772:11788:0423/191413.655:ERROR:browser_process_sub_thread.cc(209)] Waited 119 ms for network service
+Apr 23, 2019 19:15:13.16 [9264:12060:0423/191513.164:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 19:16:05.41 [9264:4328:0423/191605.412:ERROR:browser_process_sub_thread.cc(209)] Waited 79 ms for network service
+Apr 23, 2019 19:32:00.94 [8704:3156:0423/193200.942:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 23, 2019 19:39:27.81 [8704:10664:0423/193927.811:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 19:39:50.74 [8704:10664:0423/193950.744:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 19:40:43.69 [8704:10664:0423/194043.691:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 19:42:41.75 [8704:10664:0423/194241.757:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 23, 2019 19:45:38.28 [8704:10664:0423/194538.279:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Apr 24, 2019 13:42:29.62 NEW SESSION
+Apr 24, 2019 13:42:29.62 [2604:11080:0424/134229.306:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 24, 2019 13:50:27.68 [2604:8312:0424/135027.683:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 13:50:55.43 [2604:8312:0424/135055.432:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 13:51:51.17 [2604:8312:0424/135151.172:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 13:53:12.29 [2604:8312:0424/135312.291:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 13:56:09.27 [2604:8312:0424/135609.275:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:03:32.51 [2604:8312:0424/140332.516:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:13:32.52 [2604:8312:0424/141332.522:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:23:32.52 [2604:8312:0424/142332.529:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:33:32.53 [2604:8312:0424/143332.537:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:43:32.54 [2604:8312:0424/144332.547:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:53:32.56 [2604:8312:0424/145332.566:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 14:56:55.53 [2604:8312:0424/145655.530:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 24, 2019 14:56:55.84 [2604:8312:0424/145655.847:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 24, 2019 15:03:32.58 [2604:8312:0424/150332.581:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 15:13:32.60 [2604:8312:0424/151332.603:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 15:23:32.61 [2604:8312:0424/152332.610:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 15:33:32.62 [2604:8312:0424/153332.619:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 15:40:53.60 [2604:3644:0424/154053.603:ERROR:browser_process_sub_thread.cc(209)] Waited 27 ms for network service
+Apr 24, 2019 15:42:12.91 [3144:8472:0424/154212.912:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 24, 2019 15:53:43.85 [3144:6620:0424/155343.856:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 24, 2019 15:54:08.44 [3144:6620:0424/155408.446:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Apr 25, 2019 06:00:15.78 NEW SESSION
+Apr 25, 2019 06:00:15.78 [4968:104:0425/060015.777:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 25, 2019 06:01:16.25 [4968:6428:0425/060116.255:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 06:01:36.74 [4968:6428:0425/060136.740:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 06:02:33.87 [4968:6428:0425/060233.875:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 06:04:28.22 [4968:6428:0425/060428.223:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 06:07:46.03 [4968:6428:0425/060746.033:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 06:08:00.05 [4968:5620:0425/060800.054:ERROR:browser_process_sub_thread.cc(209)] Waited 84 ms for network service
+
+Apr 25, 2019 14:36:29.02 NEW SESSION
+Apr 25, 2019 14:36:29.02 [10304:12956:0425/143628.893:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 25, 2019 14:47:33.87 [10304:12492:0425/144733.876:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 14:48:00.91 [10304:12492:0425/144800.918:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 14:48:50.61 [10304:12492:0425/144850.611:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 14:50:15.49 [10304:12492:0425/145015.496:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 14:53:04.61 [10304:12492:0425/145304.615:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 14:56:56.25 [10304:12492:0425/145656.254:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 25, 2019 14:56:56.26 [10304:12492:0425/145656.266:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Apr 25, 2019 15:00:15.88 [10304:12492:0425/150015.879:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 15:10:15.88 [10304:12492:0425/151015.885:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 15:20:15.89 [10304:12492:0425/152015.893:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 15:30:15.90 [10304:12492:0425/153015.899:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 15:40:15.90 [10304:12492:0425/154015.904:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 15:50:15.92 [10304:12492:0425/155015.920:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 16:00:15.92 [10304:12492:0425/160015.925:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 16:10:15.96 [10304:12492:0425/161015.946:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 16:20:15.96 [10304:12492:0425/162015.961:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 25, 2019 16:28:12.74 [10304:6928:0425/162812.746:ERROR:browser_process_sub_thread.cc(209)] Waited 601 ms for network service
+
+Apr 26, 2019 18:33:18.17 NEW SESSION
+Apr 26, 2019 18:33:18.17 [8680:7024:0426/183317.631:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Apr 26, 2019 18:45:08.81 [8680:7620:0426/184508.814:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 18:45:36.84 [8680:7620:0426/184536.841:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 18:46:32.79 [8680:7620:0426/184632.795:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 18:48:29.92 [8680:7620:0426/184829.919:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 18:51:36.49 [8680:7620:0426/185136.496:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 18:58:48.90 [8680:7620:0426/185848.902:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Apr 26, 2019 19:10:15.66 [8680:12952:0426/191015.661:ERROR:browser_process_sub_thread.cc(209)] Waited 308 ms for network service
+
+May 01, 2019 12:13:18.84 NEW SESSION
+May 01, 2019 12:13:18.84 [5432:10616:0501/121318.842:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 01, 2019 12:13:41.09 [5432:2104:0501/121341.096:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:14:02.06 [5432:2104:0501/121402.060:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:14:14.51 [5432:2104:0501/121414.515:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 01, 2019 12:14:14.75 [5432:2104:0501/121414.757:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 01, 2019 12:14:51.47 [5432:2104:0501/121451.474:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:16:27.79 [5432:2104:0501/121627.794:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:19:30.43 [5432:2104:0501/121930.437:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:26:48.64 [5432:2104:0501/122648.640:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:36:48.64 [5432:2104:0501/123648.647:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 01, 2019 12:43:18.45 [5432:7060:0501/124318.455:ERROR:browser_process_sub_thread.cc(209)] Waited 9 ms for network service
+
+May 02, 2019 10:20:49.74 NEW SESSION
+May 02, 2019 10:20:51.31 [10624:5688:0502/102049.219:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 02, 2019 10:24:41.98 [10624:12076:0502/102441.984:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:25:08.78 [10624:12076:0502/102508.780:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:26:06.65 [10624:12076:0502/102606.652:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:27:44.28 [10624:12076:0502/102744.288:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:30:38.09 [10624:12076:0502/103038.090:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:38:18.62 [10624:12076:0502/103818.628:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 10:59:59.69 [10624:12076:0502/105959.694:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 02, 2019 11:01:30.23 [10624:9144:0502/110130.235:ERROR:browser_process_sub_thread.cc(209)] Waited 36 ms for network service
+May 02, 2019 11:04:49.19 [11748:7160:0502/110449.191:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 02, 2019 11:05:53.92 [11748:4384:0502/110553.921:ERROR:browser_process_sub_thread.cc(209)] Waited 418 ms for network service
+
+May 03, 2019 15:16:59.30 NEW SESSION
+May 03, 2019 15:16:59.30 [1676:8876:0503/151659.306:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 03, 2019 15:17:54.51 [1676:10412:0503/151754.515:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 03, 2019 15:17:54.53 [1676:10412:0503/151754.533:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 03, 2019 15:20:38.07 [1676:10412:0503/152038.079:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:21:05.44 [1676:10412:0503/152105.447:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:21:53.11 [1676:10412:0503/152153.117:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:23:46.73 [1676:10412:0503/152346.738:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:27:26.72 [1676:10412:0503/152726.729:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:34:27.92 [1676:10412:0503/153427.877:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:44:27.89 [1676:10412:0503/154427.897:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:48:42.29 [1676:14740:0503/154842.298:ERROR:browser_process_sub_thread.cc(209)] Waited 65 ms for network service
+May 03, 2019 15:48:54.61 [1524:11948:0503/154854.614:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 03, 2019 15:49:36.49 [1524:15356:0503/154936.496:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:49:57.68 [1524:15356:0503/154957.688:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:50:53.31 [1524:15356:0503/155053.318:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:52:30.23 [1524:15356:0503/155230.234:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 15:55:11.33 [1524:14360:0503/155511.323:ERROR:browser_process_sub_thread.cc(209)] Waited 133 ms for network service
+
+May 03, 2019 19:41:34.81 NEW SESSION
+May 03, 2019 19:41:34.81 [8384:13720:0503/194134.798:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 03, 2019 19:49:29.14 [8384:3264:0503/194929.139:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 19:49:56.18 [8384:3264:0503/194956.188:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 03, 2019 19:49:57.85 [8384:11100:0503/194957.853:ERROR:browser_process_sub_thread.cc(209)] Waited 329 ms for network service
+
+May 04, 2019 13:50:53.24 NEW SESSION
+May 04, 2019 13:50:53.24 [9116:8076:0504/135053.233:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 04, 2019 13:56:50.48 [9116:9404:0504/135650.484:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 04, 2019 13:57:16.68 [9116:9404:0504/135716.683:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 04, 2019 13:57:34.88 [9116:11656:0504/135734.889:ERROR:browser_process_sub_thread.cc(209)] Waited 180 ms for network service
+
+May 05, 2019 12:26:44.77 NEW SESSION
+May 05, 2019 12:26:44.77 [15948:3280:0505/122644.761:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 05, 2019 12:29:52.97 [15948:11140:0505/122952.970:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 05, 2019 12:30:13.26 [15948:11140:0505/123013.268:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 05, 2019 12:31:05.16 [15948:11140:0505/123105.161:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 05, 2019 12:32:28.43 [15948:11140:0505/123228.433:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+May 06, 2019 16:10:23.02 NEW SESSION
+May 06, 2019 16:10:23.02 [2088:1344:0506/161023.025:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 06, 2019 16:10:45.32 [2088:15284:0506/161045.320:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 06, 2019 16:11:10.11 [2088:15284:0506/161110.107:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 06, 2019 16:12:04.03 [2088:15284:0506/161204.033:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 06, 2019 16:13:40.94 [2088:15284:0506/161340.948:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 06, 2019 16:17:09.68 [2088:9932:0506/161709.670:ERROR:browser_process_sub_thread.cc(209)] Waited 140 ms for network service
+
+May 08, 2019 14:26:18.46 NEW SESSION
+May 08, 2019 14:26:18.47 [11120:14540:0508/142618.465:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 08, 2019 14:27:03.53 [11120:10648:0508/142703.532:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 08, 2019 14:27:04.18 [11120:10648:0508/142704.184:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 08, 2019 14:32:46.27 [11120:10648:0508/143246.271:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+May 10, 2019 15:57:02.44 NEW SESSION
+May 10, 2019 15:57:02.44 [280:16172:0510/155702.422:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 10, 2019 15:57:54.73 [280:1972:0510/155754.734:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2019 15:57:55.37 [280:1972:0510/155755.372:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2019 16:02:48.26 [280:12640:0510/160248.256:ERROR:browser_process_sub_thread.cc(217)] Waited 91 ms for network service
+May 10, 2019 16:02:57.28 [11864:11064:0510/160257.281:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 10, 2019 16:08:28.32 [11864:4724:0510/160828.321:ERROR:browser_process_sub_thread.cc(217)] Waited 197 ms for network service
+
+May 11, 2019 14:20:19.64 NEW SESSION
+May 11, 2019 14:20:19.64 [16060:10756:0511/142019.607:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 11, 2019 14:21:24.94 [16060:7976:0511/142124.942:ERROR:browser_process_sub_thread.cc(217)] Waited 7 ms for network service
+May 11, 2019 14:23:42.06 [1784:16348:0511/142342.067:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 11, 2019 14:24:39.40 [1784:6316:0511/142439.406:ERROR:CONSOLE(8)] "Uncaught Error: Assertion failed", source: chrome://settings/crisper.js (8)
+May 11, 2019 14:31:48.10 [1784:6316:0511/143148.106:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 11, 2019 14:32:16.48 [1784:6316:0511/143216.482:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 11, 2019 14:32:22.53 [1784:6316:0511/143222.537:ERROR:CONSOLE(8)] "Uncaught Error: Assertion failed", source: chrome://settings/crisper.js (8)
+May 11, 2019 14:33:12.56 [1784:6316:0511/143312.563:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 11, 2019 14:34:03.23 [1784:15052:0511/143403.229:ERROR:browser_process_sub_thread.cc(217)] Waited 30 ms for network service
+
+May 21, 2019 14:22:36.41 NEW SESSION
+May 21, 2019 14:22:36.74 [2084:6884:0521/142235.461:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 21, 2019 14:23:09.99 [2084:3244:0521/142309.996:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 14:23:12.69 [2084:3244:0521/142312.697:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 21, 2019 14:23:12.96 [2084:3244:0521/142312.967:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 21, 2019 14:23:34.75 [2084:3244:0521/142334.751:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 14:24:30.95 [2084:3244:0521/142430.950:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 14:26:20.21 [2084:3244:0521/142620.214:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 14:26:46.52 [2084:3164:0521/142646.525:ERROR:browser_process_sub_thread.cc(217)] Waited 55 ms for network service
+May 21, 2019 15:52:28.81 [3056:6464:0521/155228.445:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 21, 2019 15:53:07.56 [3056:8364:0521/155307.561:ERROR:browser_process_sub_thread.cc(217)] Waited 187 ms for network service
+May 21, 2019 15:57:52.12 [9088:11272:0521/155752.127:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 21, 2019 16:01:53.74 [9088:12692:0521/160153.745:ERROR:CONSOLE(279)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.google.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (279)
+May 21, 2019 16:20:16.28 [9088:14280:0521/162016.224:ERROR:browser_process_sub_thread.cc(217)] Waited 473 ms for network service
+
+May 21, 2019 18:23:43.11 NEW SESSION
+May 21, 2019 18:23:43.11 [10928:13556:0521/182343.109:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 21, 2019 18:24:33.59 [10928:14624:0521/182433.596:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 18:24:59.70 [10928:14624:0521/182459.703:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 21, 2019 18:25:47.29 [10928:8488:0521/182547.292:ERROR:browser_process_sub_thread.cc(217)] Waited 113 ms for network service
+
+May 22, 2019 13:23:11.22 NEW SESSION
+May 22, 2019 13:23:11.22 [824:14700:0522/132311.178:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 22, 2019 13:26:56.78 [824:2204:0522/132656.789:ERROR:browser_process_sub_thread.cc(217)] Waited 190 ms for network service
+
+May 25, 2019 18:53:19.22 NEW SESSION
+May 25, 2019 18:53:19.22 [8080:7152:0525/185319.178:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 25, 2019 18:54:21.85 [8080:8444:0525/185421.857:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 25, 2019 18:54:22.65 [8080:8444:0525/185422.653:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+May 25, 2019 18:55:11.11 [8080:8444:0525/185511.113:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 18:55:39.86 [8080:8444:0525/185539.868:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 18:56:31.95 [8080:8444:0525/185631.955:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 18:58:04.39 [8080:8444:0525/185804.390:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:01:26.01 [8080:8444:0525/190126.012:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:08:47.43 [8080:8444:0525/190847.434:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:14:58.51 [8080:9372:0525/191458.506:ERROR:browser_process_sub_thread.cc(217)] Waited 126 ms for network service
+May 25, 2019 19:18:48.29 [3116:7380:0525/191848.293:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 25, 2019 19:21:23.30 [3116:12248:0525/192123.303:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:21:44.08 [3116:12248:0525/192144.083:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:22:40.66 [3116:12248:0525/192240.661:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:24:17.74 [3116:12248:0525/192417.740:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:27:13.22 [3116:12248:0525/192713.226:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:32:51.80 [3116:12248:0525/193251.801:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:42:51.82 [3116:12248:0525/194251.826:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 25, 2019 19:46:07.13 [3116:6628:0525/194607.129:ERROR:browser_process_sub_thread.cc(217)] Waited 93 ms for network service
+
+May 28, 2019 13:53:03.75 NEW SESSION
+May 28, 2019 13:53:03.75 [11504:10672:0528/135303.719:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+May 29, 2019 14:58:32.91 NEW SESSION
+May 29, 2019 14:58:32.91 [4688:7904:0529/145832.357:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+May 29, 2019 15:00:32.81 [4688:15268:0529/150032.818:ERROR:browser_process_sub_thread.cc(217)] Waited 57 ms for network service

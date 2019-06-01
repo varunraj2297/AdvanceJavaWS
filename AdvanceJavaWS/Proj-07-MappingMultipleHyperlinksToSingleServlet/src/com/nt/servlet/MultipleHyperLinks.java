@@ -14,7 +14,6 @@ public class MultipleHyperLinks extends HttpServlet {
 
 	@Override
 	public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-		
 		PrintWriter pw=null;
 		Locale locales[];
 		String link;

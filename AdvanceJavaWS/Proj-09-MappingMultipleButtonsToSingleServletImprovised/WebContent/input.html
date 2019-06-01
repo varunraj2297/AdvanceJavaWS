@@ -1,0 +1,140 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title text-align="center">Addition</title>
+<style>
+tr{
+	text-align: center;
+}
+</style>
+</head>
+<body>
+	<form name='frm' action="buttons" method="post">
+	<h1 style='color:red;text-align: center'>Addition</h1>
+		<table align="center" >
+			<tr>
+				<td><label>Value1 ::</label></td>
+				<td><input type="text" name="t1"></td>			
+			</tr>
+			<tr>
+				<td><label>Value2 ::</label></td>
+				<td><input type="text" name="t2"></td>			
+			</tr>
+			<tr>
+				<td ><input type="submit" value="plus" name="s" onsubmit="return replace(this)"></td>
+				<td ><input type="submit" value="minus" name="s" onsubmit="return replace(this)"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="into" name="s" onsubmit="return replace(this)"></td>
+				<td><input type="submit" value="by" name="s" onsubmit="return replace(this)"></td>
+			</tr>
+			<tr>
+				<td><a href="buttons?s=sysdate">sysdate</a></td>
+				<td><a href="buttons?s=props">props</a></td>
+			</tr>
+			<tr>
+				<td><input type="hidden" name="source" value=""></td>
+			</tr>
+		</table>
+	
+	</form>
+
+</body>
+</html>
+
+<script lang="javascript">
+	function replace(frm) {
+	alert(1);
+		var cap=frm.s.value;
+		alert(cap);
+		if(cap=="plus")
+			alert(1);
+			frm.s.value="add";
+		else if(cap=="minus")
+			frm.s.value="sub";
+		else if(cap=="into")
+			frm.s.value="mul";
+		else if(cap=="by")
+			frm.s.value="div";		
+		
+		alert(frm.s.value);
+	}
+ 
+name attribute of submit button value not be accessed in javaScript using formName.NameAttributeName.value we have to go with id and accessing that
+id in js using document.getElementById(id).value
+</script> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title text-align="center">Addition</title>
+<style>
+tr{
+	text-align: center;
+}
+</style>
+</head>
+<body>
+	<form name='frm' action="buttons" method="post" >
+	<h1 style='color:red;text-align: center'>Addition</h1>
+		<table align="center" >
+			<tr>
+				<td><label>Value1 ::</label></td>
+				<td><input type="text" name="t1"></td>			
+			</tr>
+			<tr>
+				<td><label>Value2 ::</label></td>
+				<td><input type="text" name="t2"></td>			
+			</tr>
+			<tr>
+				<td ><input type="submit" value="plus"  onclick="replace(this.value)"></td>
+				<td ><input type="submit" value="minus"  onclick="replace(this.value)"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="into"   onclick="replace(this.value)"></td>
+				<td><input type="submit" value="by"   onclick="replace(this.value)"></td>
+			</tr><!-- better to take type="submit" and onclick event in combo
+							becoz if we take onsubmit event, event runs after sending the request
+							which is useless if we take onclick event ,event raise before sending
+							the request and event completion request will be send to browser.we can also take type="button" but we have to 
+							write submit logic explicitly. -->
+							
+				<td><a href="buttons?source=sysdate">sysdate</a></td>
+				<td><a href="buttons?source=props">props</a></td>
+			</tr>
+			<tr>
+				<td><input type="hidden" name="source" value=""></td>
+			</tr>
+		</table>
+	
+	</form>
+
+</body>
+</html>
+
+<script lang="javascript">
+	function replace(cap) {
+	alert(100);
+		//var cap=document.getElementById("s").value;
+		//cap=frm.s.value; cannot access submit button value directly using frm.s.value where frm is form name,s is submit button name
+		
+		alert(cap);
+		if(cap=="plus"){
+			alert(1);
+			frm.source.value="add";
+		}
+		else if(cap=="minus")
+			frm.source.value="sub";
+		else if(cap=="into")
+			frm.source.value="mul";
+		else if(cap=="by")
+			frm.source.value="div";		
+		
+		alert(frm.t1.value);
+		//frm.submit();  //use when type is button for submit not required 
+	}
+ 
+
+</script>

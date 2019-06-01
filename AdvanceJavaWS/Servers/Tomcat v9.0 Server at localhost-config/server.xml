@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Proj-08-MappingMultipleButtonsToSingleServlet" path="/Proj-08-MappingMultipleButtonsToSingleServlet" reloadable="true" source="org.eclipse.jst.jee.server:Proj-08-MappingMultipleButtonsToSingleServlet"/></Host>
+      <Context docBase="Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp" path="/Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp" reloadable="true" source="org.eclipse.jst.jee.server:Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp"/></Host>
     </Engine>
   </Service>
 </Server>

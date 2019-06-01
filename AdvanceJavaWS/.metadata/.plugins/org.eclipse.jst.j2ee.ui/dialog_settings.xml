@@ -4,8 +4,12 @@
 	<item value="true" key="J2EE_EXPORT_SOURCE"/>
 	<list key="MRU_RUNTIME_STORE">
 		<item value="Apache Tomcat v9.0"/>
+		<item value="Oracle WebLogic Server 12c R2 (12.2.1.3)"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="E:\Tomcat_home\webapps\Proj-37-ServletListeners.war"/>
+		<item value="E:\Proj-07-MappingMultipleHyperlinksToSingleServlet.war"/>
+		<item value="E:\Tomcat_home\webapps\Proj-05-Html_to_Servlet_communication_Using_forms_MarriageApp_With_FormValidations_client_side.war"/>
 		<item value="E:\Tomcat_home\webapps\Proj-02-Html_to_Servlet_Communication_Using_forms.war"/>
 	</list>
 </section>

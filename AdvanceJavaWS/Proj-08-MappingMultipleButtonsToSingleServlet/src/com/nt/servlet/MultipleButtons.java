@@ -20,6 +20,7 @@ public class MultipleButtons extends HttpServlet {
 		res.setContentType("text/html");
 		pw=res.getWriter();
 		element=req.getParameter("s");
+		System.out.println(element);
 		
 		if(!element.equalsIgnoreCase("sysdate")&&!element.equalsIgnoreCase("props")) {
 			value1=Integer.parseInt(req.getParameter("t1"));
