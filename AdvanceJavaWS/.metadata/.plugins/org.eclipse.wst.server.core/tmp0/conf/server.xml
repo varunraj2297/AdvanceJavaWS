@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp" path="/Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp" reloadable="true" source="org.eclipse.jst.jee.server:Proj-38-DynaServlet-Html_to_Servlet_communication_Using_forms_MarriageApp"/></Host>
+      <Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\AdvanceJavaWS\AdvanceJavaWS\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSP-Proj16-pageContextAttributePOC" path="/JSP-Proj16-pageContextAttributePOC" reloadable="true" source="org.eclipse.jst.jee.server:JSP-Proj16-pageContextAttributePOC"/></Host>
     </Engine>
   </Service>
 </Server>
