@@ -15,9 +15,7 @@
 <fullyQualifiedTypeName name="com.nt.dao.EmployeeDAO"/>
 <fullyQualifiedTypeName name="com.nt.dao.EmployeeDAOImpl"/>
 <fullyQualifiedTypeName name="com.nt.bo.EmployeeBO"/>
-<fullyQualifiedTypeName name="com.nt.service.EmployeeService"/>
 <fullyQualifiedTypeName name="com.nt.service.EmployeeServiceImpl"/>
-<fullyQualifiedTypeName name="com.nt.dto.EmployeeDTO"/>
 <fullyQualifiedTypeName name="javazoom.upload.MultipartFormDataRequest"/>
 <fullyQualifiedTypeName name="java.util.Hashtable"/>
 <fullyQualifiedTypeName name="java.util.Enumeration"/>
@@ -29,7 +27,6 @@
 <fullyQualifiedTypeName name="java.lang.Float"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
-<fullyQualifiedTypeName name="lombok.Data"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="javax.sql.DataSource"/>
 <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
@@ -56,8 +53,11 @@
 <fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="com.nt.dto.EmployeeDTO"/>
+<fullyQualifiedTypeName name="com.nt.service.EmployeeService"/>
 </qualifiedTypeNameHistroy>

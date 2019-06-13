@@ -536,3 +536,23 @@ Jun 10, 2019 18:50:46.74 [12596:3164:0610/185046.748:ERROR:gcm_channel_status_re
 Jun 10, 2019 19:00:46.75 [12596:3164:0610/190046.755:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
 Jun 10, 2019 19:10:46.76 [12596:3164:0610/191046.763:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
 Jun 10, 2019 19:20:46.77 [12596:3164:0610/192046.770:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jun 12, 2019 18:21:25.25 NEW SESSION
+Jun 12, 2019 18:21:25.25 [12740:15220:0612/182125.159:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 12, 2019 18:22:30.90 [12740:4344:0612/182230.904:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Jun 12, 2019 18:22:30.91 [12740:4344:0612/182230.910:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Jun 12, 2019 18:28:27.76 [12740:4344:0612/182827.764:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 12, 2019 18:28:49.95 [12740:4344:0612/182849.955:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 12, 2019 18:29:38.33 [12740:4344:0612/182938.332:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 12, 2019 18:31:37.00 [12740:4344:0612/183137.001:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 12, 2019 18:34:32.05 [12740:4344:0612/183432.056:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 12, 2019 18:42:03.69 [12740:4344:0612/184203.695:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jun 13, 2019 06:49:56.87 NEW SESSION
+Jun 13, 2019 06:49:56.87 [11956:15324:0613/064956.838:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 13, 2019 06:52:34.18 [11956:9056:0613/065234.179:ERROR:browser_process_sub_thread.cc(217)] Waited 110 ms for network service
+Jun 13, 2019 07:01:32.43 [10656:6420:0613/070132.435:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Jun 13, 2019 13:28:20.86 NEW SESSION
+Jun 13, 2019 13:28:20.86 [2112:6196:0613/132820.836:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 13, 2019 13:29:37.77 [2112:13116:0613/132937.774:ERROR:browser_process_sub_thread.cc(217)] Waited 213 ms for network service

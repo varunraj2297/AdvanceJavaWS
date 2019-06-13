@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Proj-43-DoublePostingProblem" path="/Proj-43-DoublePostingProblem" reloadable="true" source="org.eclipse.jst.jee.server:Proj-43-DoublePostingProblem"/></Host>
+      <Context docBase="JSP-Proj18-UseBean-UseCase" path="/JSP-Proj18-UseBean-UseCase" reloadable="true" source="org.eclipse.jst.jee.server:JSP-Proj18-UseBean-UseCase"/></Host>
     </Engine>
   </Service>
 </Server>
