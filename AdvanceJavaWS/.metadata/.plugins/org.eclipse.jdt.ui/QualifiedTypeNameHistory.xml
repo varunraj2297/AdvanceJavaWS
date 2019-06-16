@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.sql.Statement"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
-<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.apache.catalina.tribes.group.AbsoluteOrder.AbsoluteComparator"/>
 <fullyQualifiedTypeName name="javax.servlet.Servlet"/>
@@ -46,18 +42,22 @@
 <fullyQualifiedTypeName name="javax.servlet.ServletRequest"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-<fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
-<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="lombok.Data"/>
 <fullyQualifiedTypeName name="com.nt.dto.EmployeeDTO"/>
 <fullyQualifiedTypeName name="com.nt.service.EmployeeService"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="com.nt.wrapper.CustomRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
+<fullyQualifiedTypeName name="java.io.CharArrayWriter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="com.nt.wrapper.CustomResponse"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 </qualifiedTypeNameHistroy>

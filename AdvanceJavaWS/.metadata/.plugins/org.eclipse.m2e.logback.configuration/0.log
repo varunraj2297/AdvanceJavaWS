@@ -1393,3 +1393,215 @@ Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to tra
 2019-06-13 13:20:12,417 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-06-13 13:20:12,418 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj14-ForwardUseCase\src\test\resources
 2019-06-13 13:20:26,948 [Worker-19: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-15 18:24:45,358 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-15 18:24:48,974 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-15 18:28:30,790 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\pom.xml
+2019-06-15 18:28:37,638 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:JSP-Proj19-RandomAdvertisements:0.0.1-SNAPSHOT @ F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\pom.xml.
+2019-06-15 18:28:39,937 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSP-Proj19-RandomAdvertisements/src/main/java
+2019-06-15 18:28:39,938 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSP-Proj19-RandomAdvertisements/src/main/resources
+2019-06-15 18:28:39,938 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSP-Proj19-RandomAdvertisements/src/test/java
+2019-06-15 18:28:43,019 [Worker-21: Creating maven-archetype-webapp] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[na:1.8.0_192]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[na:1.8.0_192]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[na:1.8.0_192]
+	at java.net.Socket.connect(Socket.java:589) ~[na:1.8.0_192]
+	at java.net.Socket.connect(Socket.java:538) ~[na:1.8.0_192]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[na:1.8.0_192]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463) ~[na:1.8.0_192]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558) ~[na:1.8.0_192]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242) ~[na:1.8.0_192]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339) ~[na:1.8.0_192]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564) ~[na:1.8.0_192]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:647) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1304) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1270) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:264) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1161) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1045) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:959) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243) ~[na:1.8.0_192]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) ~[na:1.8.0_192]
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121) ~[na:1.8.0_192]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:139) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:115) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:80) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:55) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:91) [org.eclipse.m2e.wtp_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:61) [org.eclipse.m2e.wtp_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:93) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:68) [org.eclipse.m2e.wtp.jsf_1.4.1.20181128-2152.jar:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:288) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:175) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:143) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createArchetypeProjects0(ProjectConfigurationManager.java:863) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$5.call(ProjectConfigurationManager.java:792) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$5.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.createArchetypeProjects(ProjectConfigurationManager.java:790) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$5.doCreateMavenProjects(MavenProjectWizard.java:241) [org.eclipse.m2e.core.ui_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:63) [org.eclipse.m2e.core.ui_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:73) [org.eclipse.m2e.core.ui_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:67) [org.eclipse.m2e.core.ui_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42) [org.eclipse.core.resources_3.13.200.v20181121-1020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-06-15 18:28:43,173 [Worker-21: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2019-06-15 18:28:48,873 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:28:48,902 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:28:48,908 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:28:48,910 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:29:22,546 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:29:22,551 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:29:22,553 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:29:22,555 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:30:04,227 [Worker-8: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:30:04,231 [Worker-8: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:30:04,280 [Worker-8: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:30:04,284 [Worker-8: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:31:00,183 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:JSP-Proj19-RandomAdvertisements:0.0.1-SNAPSHOT @ F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\pom.xml.
+2019-06-15 18:31:01,613 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:01,617 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:31:01,621 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:01,623 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:31:01,625 [Worker-8: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSP-Proj19-RandomAdvertisements
+2019-06-15 18:31:01,628 [Worker-8: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSP-Proj19-RandomAdvertisements
+2019-06-15 18:31:01,639 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:02,620 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:02,622 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:31:02,626 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:02,628 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:31:46,120 [Worker-12: Cleaning selected projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSP-Proj19-RandomAdvertisements
+2019-06-15 18:31:46,413 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:46,416 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:31:46,419 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:31:46,420 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:31:46,421 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSP-Proj19-RandomAdvertisements
+2019-06-15 18:31:46,421 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSP-Proj19-RandomAdvertisements
+2019-06-15 18:31:46,434 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:33:05,990 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:33:05,996 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:33:05,999 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:33:06,001 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:36:28,198 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:36:28,201 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:36:28,202 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:36:28,204 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:38:56,903 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:38:56,906 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:38:56,908 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:38:56,910 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:41:42,717 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:41:42,720 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:41:42,725 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:41:42,727 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:45:01,609 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:45:01,613 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:45:01,615 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:45:01,618 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:47:13,440 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:47:13,442 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:47:13,444 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:47:13,445 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:47:26,377 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:47:26,377 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:47:26,378 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:47:26,380 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:52:32,019 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:52:32,021 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:52:32,023 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:52:32,025 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:52:54,277 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:52:54,278 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:52:54,280 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:52:54,281 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:53:27,941 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:27,943 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:53:27,947 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:27,949 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:53:32,033 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:32,034 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:53:32,036 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:32,038 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:53:35,203 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:35,204 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:53:35,206 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:53:35,208 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:54:02,519 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:02,521 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:54:02,526 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:02,528 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:54:26,270 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:26,272 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:54:26,274 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:26,275 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:54:54,728 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:54,730 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:54:54,733 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:54:54,734 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 18:58:31,372 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:58:31,386 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 18:58:31,388 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 18:58:31,389 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:00:03,429 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:00:03,432 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:00:03,433 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:00:03,435 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:00:22,203 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:00:22,206 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:00:22,208 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:00:22,211 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:01:46,132 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:01:46,134 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:01:46,136 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:01:46,138 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:02:37,564 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:02:37,566 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:02:37,568 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:02:37,570 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:02:51,734 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:02:51,735 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:02:51,737 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:02:51,738 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:03:10,989 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:03:10,991 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:03:10,992 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:03:10,993 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-15 19:03:46,911 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:03:46,914 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-15 19:03:46,916 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-15 19:03:46,922 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-16 16:06:30,353 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-16 16:06:30,419 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-16 16:06:30,425 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-16 16:06:30,427 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj14-ForwardUseCase\src\test\resources
+2019-06-16 16:06:32,658 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-16 16:06:32,669 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-16 16:06:32,674 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-16 16:06:32,677 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\AdvanceJavaWS\AdvanceJavaWS\JSP-Proj19-RandomAdvertisements\src\test\resources
+2019-06-16 16:16:02,147 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-16 16:16:02,380 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
