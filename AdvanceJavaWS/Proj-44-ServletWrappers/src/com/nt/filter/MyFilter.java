@@ -36,7 +36,8 @@ public class MyFilter extends GenericFilter {
 		    	output=cres.toString();
 		    	
 		    	pw=res.getWriter();
-		        pw.println(output+"<br>....from hyd");
+		        pw.println(cres+"<br>....from hyd");
+		        System.out.println(pw);
 		    	pw.close();
 	}
 

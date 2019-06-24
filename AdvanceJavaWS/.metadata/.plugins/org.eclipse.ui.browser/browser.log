@@ -579,3 +579,103 @@ Jun 16, 2019 18:20:55.58 [7016:11556:0616/182055.582:ERROR:external_registry_loa
 Jun 16, 2019 18:30:33.56 [7016:14124:0616/183033.563:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
 Jun 16, 2019 18:30:57.48 [7016:14124:0616/183057.483:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
 Jun 16, 2019 18:31:55.78 [7016:14124:0616/183155.787:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jun 19, 2019 22:47:27.53 NEW SESSION
+Jun 19, 2019 22:47:27.53 [10300:2392:0619/224727.454:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 19, 2019 22:49:44.97 [10300:9888:0619/224944.975:ERROR:browser_process_sub_thread.cc(217)] Waited 188 ms for network service
+Jun 19, 2019 22:52:40.98 [9828:10488:0619/225240.987:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 19, 2019 22:53:54.98 [9828:9872:0619/225354.980:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 22:54:20.04 [9828:9872:0619/225420.040:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 22:55:15.80 [9828:9872:0619/225515.809:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 22:56:37.82 [9828:9872:0619/225637.828:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 22:59:31.99 [9828:9872:0619/225931.992:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:06:50.50 [9828:9872:0619/230650.501:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:07:24.30 [9828:10700:0619/230724.301:ERROR:browser_process_sub_thread.cc(217)] Waited 13 ms for network service
+Jun 19, 2019 23:13:18.95 [7056:8640:0619/231318.955:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 19, 2019 23:16:13.83 [7056:9872:0619/231613.839:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:16:35.98 [7056:9872:0619/231635.985:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:17:18.95 [7056:9872:0619/231718.953:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:19:17.21 [7056:9872:0619/231917.214:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:22:32.69 [7056:9872:0619/232232.690:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:29:51.56 [7056:9872:0619/232951.566:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 19, 2019 23:33:11.22 [7056:3368:0619/233311.222:ERROR:browser_process_sub_thread.cc(217)] Waited 62 ms for network service
+
+Jun 20, 2019 09:11:30.28 NEW SESSION
+Jun 20, 2019 09:11:30.28 [7532:6616:0620/091130.205:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 20, 2019 09:16:16.54 [7532:12880:0620/091616.546:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 09:16:43.31 [7532:12880:0620/091643.314:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 09:17:30.34 [7532:12880:0620/091730.348:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 09:19:06.62 [7532:12880:0620/091906.624:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 09:22:32.42 [7532:12880:0620/092232.420:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 09:29:08.47 [7532:12880:0620/092908.471:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:04:51.73 [7532:12880:0620/110451.739:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:14:51.77 [7532:12880:0620/111451.770:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:24:51.78 [7532:12880:0620/112451.788:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:34:51.79 [7532:12880:0620/113451.796:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:44:51.80 [7532:12880:0620/114451.803:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 20, 2019 11:46:54.87 [7532:8132:0620/114654.871:ERROR:browser_process_sub_thread.cc(217)] Waited 83 ms for network service
+Jun 20, 2019 11:58:20.95 [2412:2592:0620/115820.957:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 20, 2019 12:02:43.04 [2412:9816:0620/120243.040:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+Jun 20, 2019 12:03:08.81 [2412:9816:0620/120308.817:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+Jun 20, 2019 12:03:14.74 [2412:9816:0620/120314.740:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+Jun 20, 2019 12:03:19.64 [2412:9816:0620/120319.645:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+Jun 20, 2019 12:03:26.05 [2412:9816:0620/120326.053:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+Jun 20, 2019 12:03:49.78 [2412:9816:0620/120349.780:ERROR:CONSOLE(1247)] "Uncaught TypeError: Cannot set property 'annotationAvailable' of undefined", source: chrome://print/pdf/pdf_viewer.js (1247)
+
+Jun 24, 2019 13:04:30.40 NEW SESSION
+Jun 24, 2019 13:04:30.40 [10684:9488:0624/130430.376:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:12:39.88 [10684:15844:0624/131239.880:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:13:06.75 [10684:15844:0624/131306.756:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:13:56.72 [10684:15844:0624/131356.725:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:15:02.03 [10684:15844:0624/131502.035:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:15:44.34 [10684:15844:0624/131544.348:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:15:53.49 [10684:4544:0624/131553.492:ERROR:browser_process_sub_thread.cc(221)] Waited 141 ms for network service
+Jun 24, 2019 13:16:41.14 [10028:9812:0624/131641.146:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:16:53.14 [10028:4648:0624/131653.143:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:17:25.01 [10028:4648:0624/131725.017:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:18:22.12 [10028:4648:0624/131822.125:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 13:18:41.14 [10028:11188:0624/131841.145:ERROR:browser_process_sub_thread.cc(221)] Waited 103 ms for network service
+Jun 24, 2019 13:18:49.30 [6912:16756:0624/131849.304:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:21:00.18 [6912:14556:0624/132100.182:ERROR:browser_process_sub_thread.cc(221)] Waited 82 ms for network service
+Jun 24, 2019 13:26:59.09 [11804:14264:0624/132659.091:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:27:11.89 [11804:4516:0624/132711.894:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:29:03.66 [11804:7520:0624/132903.663:ERROR:browser_process_sub_thread.cc(221)] Waited 82 ms for network service
+Jun 24, 2019 13:29:13.48 [11964:7432:0624/132913.483:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:29:17.45 [11964:3320:0624/132917.455:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:30:59.94 [11964:4812:0624/133059.945:ERROR:browser_process_sub_thread.cc(221)] Waited 71 ms for network service
+Jun 24, 2019 13:31:06.93 [16944:8860:0624/133106.933:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:31:10.36 [16944:16836:0624/133110.360:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:32:01.46 [16944:16836:0624/133201.467:ERROR:CONSOLE(24)] "Empty response arrived for script 'chrome-devtools://devtools/remote/serve_file/@cd0b15c8b6a4e70c44e27f35c37a4029bad3e3b0/accessibility/accessibility_module.js'", source: chrome-devtools://devtools/bundled/shell.js (24)
+Jun 24, 2019 13:32:01.49 [16944:16836:0624/133201.492:ERROR:CONSOLE(108)] "Uncaught (in promise) Error: Could not instantiate: Accessibility.AccessibilitySidebarView", source: chrome-devtools://devtools/bundled/shell.js (108)
+Jun 24, 2019 13:32:43.27 [16944:16772:0624/133243.263:ERROR:browser_process_sub_thread.cc(221)] Waited 182 ms for network service
+Jun 24, 2019 13:34:47.22 [13828:4772:0624/133447.220:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:34:51.88 [13828:13124:0624/133451.888:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:35:11.09 [13828:10340:0624/133511.098:ERROR:database.cc(1601)] Passwords sqlite error 2067, errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm, sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, preferred, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Jun 24, 2019 13:35:21.07 [13828:11404:0624/133521.058:ERROR:browser_process_sub_thread.cc(221)] Waited 168 ms for network service
+Jun 24, 2019 13:35:33.03 [2548:4860:0624/133533.037:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:35:59.12 [2548:4084:0624/133559.122:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:36:09.22 [2548:13012:0624/133609.226:ERROR:browser_process_sub_thread.cc(221)] Waited 159 ms for network service
+Jun 24, 2019 13:36:42.75 [15448:4852:0624/133642.757:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:36:46.05 [15448:3820:0624/133646.050:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:37:15.91 [15448:11132:0624/133715.916:ERROR:database.cc(1601)] Passwords sqlite error 2067, errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm, sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, preferred, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Jun 24, 2019 13:37:28.52 [15448:7716:0624/133728.511:ERROR:browser_process_sub_thread.cc(221)] Waited 139 ms for network service
+Jun 24, 2019 13:39:57.78 [9612:15672:0624/133957.782:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:41:21.74 [9612:13224:0624/134121.747:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:41:34.85 [9612:10340:0624/134134.839:ERROR:browser_process_sub_thread.cc(221)] Waited 128 ms for network service
+Jun 24, 2019 13:41:52.42 [14108:2548:0624/134152.429:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:41:59.52 [14108:1264:0624/134159.528:ERROR:browser_process_sub_thread.cc(221)] Waited 120 ms for network service
+Jun 24, 2019 13:46:01.08 [540:2104:0624/134601.081:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:46:04.73 [540:17092:0624/134604.738:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:46:21.51 [540:5296:0624/134621.498:ERROR:browser_process_sub_thread.cc(221)] Waited 121 ms for network service
+Jun 24, 2019 13:46:31.92 [180:12912:0624/134631.923:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 13:46:43.03 [180:4020:0624/134643.037:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 13:47:00.78 [180:9652:0624/134700.767:ERROR:browser_process_sub_thread.cc(221)] Waited 121 ms for network service
+Jun 24, 2019 14:00:38.72 [8340:13248:0624/140038.724:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 14:03:16.15 [8340:14164:0624/140316.157:ERROR:browser_process_sub_thread.cc(221)] Waited 180 ms for network service
+Jun 24, 2019 14:03:38.37 [8896:8152:0624/140338.378:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 14:03:57.18 [8896:12704:0624/140357.172:ERROR:browser_process_sub_thread.cc(221)] Waited 182 ms for network service
+Jun 24, 2019 14:06:29.85 [17104:15948:0624/140629.855:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jun 24, 2019 14:07:10.85 [17104:14784:0624/140710.852:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 14:07:35.00 [17104:14784:0624/140735.007:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 14:08:33.31 [17104:14784:0624/140833.312:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 14:09:53.41 [17104:13192:0624/140953.400:ERROR:browser_process_sub_thread.cc(221)] Waited 225 ms for network service
